@@ -30,6 +30,8 @@
     99. Cerrar programa
 */
 
+/* esto es un comentario para probar el sistema de actualizaciones de repos */
+
 public int numeroPedidoAlUsuario;
 
 void Start(){

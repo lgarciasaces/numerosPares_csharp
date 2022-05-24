@@ -31,6 +31,7 @@
 */
 
 /* esto es un comentario para probar el sistema de actualizaciones de repos */
+// Y esto es otro comentario más
 
 public int numeroPedidoAlUsuario;
 
